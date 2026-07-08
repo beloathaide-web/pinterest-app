@@ -6,7 +6,7 @@ Esta Política de Privacidade descreve como este aplicativo ("o aplicativo") col
 
 ## 1. Sobre o aplicativo
 
-Este é um aplicativo de uso pessoal, desenvolvido e operado por [SEU NOME], com a finalidade de automatizar a publicação de Pins na própria conta do Pinterest do desenvolvedor, referentes a produtos em promoção disponíveis em sua vitrine de afiliado.
+Este é um aplicativo de uso pessoal, desenvolvido e operado por Athaide Belo da Silva Santos, com a finalidade de automatizar a publicação de Pins na própria conta do Pinterest do desenvolvedor, referentes a produtos em promoção disponíveis em sua vitrine de afiliado.
 
 O aplicativo não é destinado a uso por terceiros e não oferece cadastro, login ou qualquer funcionalidade para outros usuários além do próprio desenvolvedor.
 
@@ -48,4 +48,4 @@ Esta política pode ser atualizada periodicamente. A data da última atualizaç�
 
 ## 8. Contato
 
-Em caso de dúvidas sobre esta política, entre em contato através de: [SEU E-MAIL]
+Em caso de dúvidas sobre esta política, entre em contato através de: beloathaide@gmail.com
